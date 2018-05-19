@@ -1,0 +1,10 @@
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\bin\Debug\Arena.exe.config
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\bin\Debug\Arena.exe
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\bin\Debug\Arena.pdb
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\obj\Debug\Arena.csprojResolveAssemblyReference.cache
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\obj\Debug\Arena.Properties.Resources.resources
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\obj\Debug\Arena.csproj.GenerateResource.Cache
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\obj\Debug\Arena.csproj.CoreCompileInputs.cache
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\obj\Debug\Arena.exe
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\obj\Debug\Arena.pdb
+C:\Users\Нурсултан Алмаханов\Source\Repos\Arena\Arena\obj\Debug\Arena.Arena.resources
