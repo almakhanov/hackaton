@@ -26,7 +26,7 @@ namespace Arena
 
         public void shoot()
         {
-            Bullet b = new Bullet(x+40/2, y+40/2, this);
+            Bullet b = new Bullet(x+40/2-10, y+40/2-10, this);
             bs.Add(b);
         }
 

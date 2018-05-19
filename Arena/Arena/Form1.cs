@@ -79,11 +79,14 @@ namespace Arena
                         {
                             if(b.x > pl.x && b.x < pl.x + 40 && b.y > pl.y && b.y < pl.y + 40)
                             {
-                                pl.xp -= 60;
+                                b.x = b.y = -50;
+                                
+                                pl.xp -= 30;
                                 if(pl.xp <= 0)
                                 {
-                                    pl.x = pl.y = 0;
+                                    pl.x = pl.y = -50;
                                     pl.dir = "no";
+
                                 }
 
                             }
@@ -157,6 +160,8 @@ namespace Arena
                     break;
             }
         }
+
+
         
 
        
